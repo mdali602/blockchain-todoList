@@ -11,4 +11,14 @@
   (ii)  todoList.address
   (iii) taskCount = await todoList.taskCount()
   (iv)  taskCount.toNumber()
+
+
+
+  echo "# blockchain-todoList" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mdali602/blockchain-todoList.git
+git push -u origin master
+
 /*********   TRUFFLE CONSOLE END    *********/
